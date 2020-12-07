@@ -1,2 +1,3 @@
 # Designing-And-Developing-for-GIS
-A professional required course for the major of geographic information science. The course content is mainly for the development of WebGIS. The reference book is the development guide for ArcGIS API for JavaScript.
+地理信息科学专业的必修课程。该课程内容主要用于WebGIS的开发。该参考书是ArcGIS API for JavaScript的开发指南。
+finishi README
